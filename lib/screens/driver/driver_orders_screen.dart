@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
+import '../../models/order_status.dart';
 import '../../services/order_service.dart';
 import '../../services/session.dart';
 import '../../services/wallet_service.dart';
